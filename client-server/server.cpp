@@ -4,12 +4,6 @@
 //
 //
 
-/**
- Answer to the questions:
-    1- What do you think the file descriptors are for the first, second and third connection descriptors based on the above debug statements?   Answer: 4, 5, and 6
-    2- What do you think the file descriptor is for the master file descriptor? Answer: 3
- */
-
 //#define DEBUG
 
 #include <iostream>
