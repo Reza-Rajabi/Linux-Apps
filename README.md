@@ -1,2 +1,2 @@
-# Linux_PS
-A simple app to report the memory consumed by processes on Linux OS
+# Linux Apps
+Simple apps for practice on Linux OS programming.
