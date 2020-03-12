@@ -1,5 +1,5 @@
 //
-//  Linux_PS.c
+//  processReport.c
 //  A simple app to capture Linux processes status.
 //
 //  Created by Reza Rajabi on 2020-01-17.
